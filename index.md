@@ -11,6 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+https://github.com/TeisSolutions/BIXTriggerAdapter/releases/latest
+
 # Header 1
 ## Header 2
 ### Header 3
